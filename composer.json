@@ -1,0 +1,20 @@
+{
+  "name": "assisted-mindfulness/policies",
+  "description": "Policies",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Alexandr Chernyaev",
+      "email": "bliz48rus@gmail.com"
+    },
+    {
+      "name": "SadElephant",
+      "email": "angelforevor@mail.ru"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "AssistedMindfulness\\Policies\\": ""
+    }
+  }
+}
